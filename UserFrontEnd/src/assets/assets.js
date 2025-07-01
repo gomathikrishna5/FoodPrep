@@ -337,14 +337,14 @@ export const food_list = [
     }, {
         _id: "31",
         name: "Somen Noodles",
-        image: food_31,
+        image: food_32,
         price: 200,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles"
     }, {
         _id: "32",
         name: "Cooked Noodles",
-        image: food_32,
+        image: food_31,
         price: 150,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles"

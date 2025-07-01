@@ -7,6 +7,14 @@
 .navbar .logo{
   width: max(10%,200px);
 }
+.navbar h1 {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #000000;
+  margin: 0 auto;
+  text-align: center;
+  flex-grow: 1;
+}
 .navbar .profile{
   width:40px;
 }

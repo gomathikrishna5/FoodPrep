@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
           <img className='footer-logo' src={assets.logo_bottom} alt="" />
-          <p>Food Prep is a full-stack project designed for hands-on teaching, helping students learn full-stack development. It's used by FACEPrep, an ed-tech company focused on equipping students with the skills to achieve their career aspirations.</p>
+          <p>FoodPrep is a modern, responsive web-based food ordering platform designed to enhance the dining experience for users while streamlining operations for food vendors. It allows users to browse a curated list of dishes, add items to a cart, and place orders with ease — all through an intuitive interface.</p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
@@ -18,22 +18,22 @@ const Footer = () => {
         <div className="footer-content-center">
           <h2>Company</h2>
           <ul>
-            <li><a href="https://faceprep.edmingle.com/"></a>Home</li>
-            <li><a href="https://faceprep.edmingle.com/contact-us"></a>About us</li>
-            <li><a href="https://faceprep.edmingle.com/courses"></a>Courses</li>
-            <li><a href="https://faceprep.edmingle.com/reviews"></a>Reviews</li>
+            <li><a href=""></a>Home</li>
+            <li><a href=""></a>About us</li>
+            <li><a href=""></a>Courses</li>
+            <li><a href=""></a>Reviews</li>
           </ul>
         </div>
         <div className="footer-content-right">
           <h2>Get in touch</h2>
           <ul>
-            <li>+91 96297 45022</li>
-            <li>enquiry@faceprep.in</li>
+            <li>+91 8919206703</li>
+            <li>p.gomathikrishna@gmail.com</li>
           </ul>
         </div>
       </div>
       <hr className="footer-hr" />
-      <p className='footer-copyright'>Copyright 2024 © 2021 FoodPrep. All rights reserved.</p>
+      <p className='footer-copyright'>Copyright 2025 © FoodPrep. All rights reserved.</p>
     </div>
   )
 }

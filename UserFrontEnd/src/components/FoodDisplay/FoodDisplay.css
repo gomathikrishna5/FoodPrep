@@ -12,3 +12,10 @@
   gap:30px;
   row-gap: 50px;
 }
+.food-display-list > * {
+  transition: transform 0.3s ease;
+}
+
+.food-display-list > *:hover {
+  transform: scale(1.05);
+}
